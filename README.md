@@ -28,3 +28,8 @@ Applications
 🔹 Legal Document Analysis
 🔹 Academic Paper Summarization
 🔹 Resume Parsing for Recruitment
+
+Notes:
+Initially You will find execution errors to add the env file, it is the api key to access gemini bot to proces the scraping process,
+ add api key as .env file to the same location where the python file is located and edit the main and app py files as per your gemini version.
+This is a basic insight about building a chatbot using basic Streamlit version, hop you like it!
